@@ -28,7 +28,7 @@ The graph from [Wikipedia](https://en.wikipedia.org/wiki/Hungarian_algorithm) be
 
 The minimum cost is $6, achieved by having Paul cleaning the bathroom, Dave sweeping the floors, and Chris washing the windows.
 
-My program is the same idea. The difference is that students are on the y axis, tutors are on the x axis, and that each matrix entry is actually a compatiblity score. From there, we are actually trying to **maximize the final value** which is **maximizing student and tutor compatibility**.
+My program is the same idea. The difference is that tutors are on the x axis, students are on the y axis and that each matrix entry is actually a compatiblity score. From there, we are actually trying to **maximize the final value** which is **maximizing student and tutor compatibility**.
 
 
 
