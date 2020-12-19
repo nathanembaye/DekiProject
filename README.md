@@ -1,7 +1,7 @@
 # Table of Contents
 
 1. [What does this solve?](#deki-project)
-2. [Why does this work](#why-does-this-work)
+2. [Why does this work?](#why-does-this-work)
 3. [Care packages](#installation)
 4. [Members](#members)
 
