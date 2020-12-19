@@ -1,7 +1,7 @@
 # Table of Contents
 
 1. [What does this solve?](#deki-project)
-2. [Why does this work?](#why-does-this-work)
+2. [How does this work?](#how-does-this-work)
 3. [Care packages](#installation)
 4. [Members](#members)
 
@@ -12,7 +12,7 @@ During COVID myself and a good friend, Nathanael, were concerned about students 
 
 
 
-### Why Does This Work?
+### How Does This Work?
 
 The idea is very straight forward. Give each student a compatibility score with each tutor. Then, try to find the combination of pairs that results in the greatest total compatibility score possible.
 
