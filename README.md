@@ -26,7 +26,7 @@ The graph below can communicate the idea. It illustrates different contractors d
 | Chris | $3       | $3     | $2      |
 
 
-The minimum cost is $6, achieved by having Paul clean the bathroom, Dave sweep the floors, and Chris wash the windows.
+The minimum cost is $6, achieved by having Paul cleaning the bathroom, Dave sweeping the floors, and Chris washing the windows.
 
 My program is the same idea. The difference is that students are on the y axis, tutors are on the x axis, and that we are actually trying to **maximize the final value** which is **maximizing student and tutor compatibility**.
 
