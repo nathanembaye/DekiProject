@@ -41,7 +41,6 @@ packages used
 pip install numpy
 pip install script 
 pip install pandas 
-
 ```
 
 ## Members
