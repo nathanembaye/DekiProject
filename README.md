@@ -35,7 +35,7 @@ My program is the same idea. The difference is that students are on the y axis, 
 
 ## Installation
 
-packages used
+Packages to install
 
 ```
 pip install numpy
