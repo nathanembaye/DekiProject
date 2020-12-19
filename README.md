@@ -19,11 +19,11 @@ The idea is very straight forward. Give each student a compatibility score with 
 The graph below can communicate the idea. It illustrates different contractors differing prices for cleaning household objects. Seeing there scores, there is a x,y combination that results in the lowest value possible.
 
 ```
-|	 |Bathroom|Floors|Windows|
-| ------ |:------:|:----:| -----:|
-| Paul   | $2 	  | $3   |  $3   |
-| Dave   | $3     | $2   |  $3   |
-| Chris  | $3     | $3   |  $2   |
+|       | Bathroom | Floors | Windows |
+|-------|----------|--------|---------|
+| Paul  | $2       | $3     | $3      |
+| Dave  | $3       | $2     | $3      |
+| Chris | $3       | $3     | $2      |
 
 ```
 The minimum cost is $6, achieved by having Paul clean the bathroom, Dave sweep the floors, and Chris wash the windows.
