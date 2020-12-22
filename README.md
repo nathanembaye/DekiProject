@@ -8,7 +8,7 @@
 
 ## Deki Project
 
-During COVID myself and a good friend, Nathanael, were concerned about students in the community academically falling behind due to lockdown restrictions. We decided to start an initiative ([The Deki Ottawa Project](https://www.instagram.com/thedekiottawaproject/?hl=en)) where undergrads and young professionals would be paired to tutor students in grades 7-12 students to combat this. As the number of tutors and students signing up grew, reaching approximately 30+ and 45+ respectively, we found optimally pairing everyone to be difficult. For every person, we had to consider: subjects, days of availability, suitable times, etc. This python program solves just that using combinatorial optimization. 
+During COVID myself and a good friend, Nathanael, were concerned about students in the community academically falling behind due to lockdown restrictions. We decided to start an initiative ([The Deki Ottawa Project](https://www.instagram.com/thedekiottawaproject/?hl=en)) where undergrads and young professionals would be paired with students in grades 7-12 for tutoring to combat this. As the number of tutors and students signing up grew, reaching approximately 30+ and 45+ respectively, we found optimally pairing everyone to be difficult. For every person, we had to consider: subjects, days of availability, suitable times, etc. This python program solves just that using combinatorial optimization. 
 
 
 
