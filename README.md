@@ -14,7 +14,7 @@ During COVID myself and a good friend, Nathanael, were concerned about students 
 
 ### How Does This Work?
 
-The idea is very straight forward. Give each student a compatibility score with each tutor. Then, try to find the combination of pairs that results in the greatest total compatibility score possible.
+The solution is simple. Give each student a compatibility score with each tutor. Then, try to find the combination of pairs that results in the greatest total compatibility score possible.
 
 The graph from [Wikipedia](https://en.wikipedia.org/wiki/Hungarian_algorithm) below communicates the idea. It illustrates different contractors prices for cleaning varying household objects. Seeing their scores, there is a x, y combination that results in the lowest cost possible.
 
