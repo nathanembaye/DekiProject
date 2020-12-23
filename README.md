@@ -34,7 +34,7 @@ My program is the same idea. The difference is that tutors are on the x axis, st
 
 ## Installation
 
-Packages to install
+What to install
 
 ```
 pip install numpy
