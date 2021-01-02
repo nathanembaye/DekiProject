@@ -12,7 +12,7 @@ During COVID myself and a good friend, Nathanael, were concerned about students 
 
 
 
-### How Does This Work?
+## How Does This Work?
 
 The solution is simple but effective. Give each student a compatibility score with each tutor. Then, try to find the combination of pairs that results in the greatest total score possible. This means that compability among tutors and students has been maximized. 
 
