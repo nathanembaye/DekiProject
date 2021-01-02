@@ -16,7 +16,7 @@ During COVID myself and a good friend, Nathanael, were concerned about students 
 
 The solution is simple but effective. Give each student a compatibility score with each tutor. Then, try to find the combination of pairs that results in the greatest total score possible. This means that compability among tutors and students has been maximized. 
 
-The graph from [Wikipedia](https://en.wikipedia.org/wiki/Hungarian_algorithm) below communicates the idea. A business wants to hire contractors for cleaning. It lists the different contractors prices for cleaning various objects. Seeing their prices, there is a (x, y) combination that results in the smallest financial cost possible.
+The graph from [Wikipedia](https://en.wikipedia.org/wiki/Hungarian_algorithm) below communicates the idea. A business wants to hire workers for cleaning. It lists the different workers prices for cleaning various objects. Seeing their prices, there is a (x, y) combination that results in the smallest financial cost possible.
 
 
 |       | Bathroom | Floors | Windows |
