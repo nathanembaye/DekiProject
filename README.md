@@ -1,4 +1,4 @@
-# Deki Project
+# Deki Ottawa
 
 # Table of Contents
 
