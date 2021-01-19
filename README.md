@@ -1,3 +1,5 @@
+# Deki Project
+
 # Table of Contents
 
 1. [What does this solve?](#deki-project)
@@ -6,7 +8,7 @@
 4. [Members](#members)
 
 
-## Deki Project
+## What does this solve?
 
 During COVID myself and a good friend, Nathanael, were concerned about students in the community falling behind academically due to lockdown restrictions. We decided to start an initiative ([The Deki Ottawa Project](https://www.instagram.com/thedekiottawaproject/?hl=en)) where undergrads and young professionals would be paired with students in grade 7-12 to tutor them. As the number of tutors and students signees grew, to approximately 30+ and 45+ respectively, optimally matching everyone became difficult. For every individual we had to consider: subjects, days of availability, suitable times, etc. This python program solves that issue using combinatorial optimization. 
 
