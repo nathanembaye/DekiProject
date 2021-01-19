@@ -4,8 +4,7 @@
 
 1. [What does this solve?](#deki-project)
 2. [How does this work?](#how-does-this-work)
-3. [Care packages](#installation)
-4. [Members](#members)
+3. [Members](#members)
 
 
 ## What does this solve?
@@ -32,17 +31,6 @@ The minimum cost is $6, achieved by having Paul cleaning the bathroom, Dave swee
 
 My program is the same idea. The difference is that tutors are on the x axis and students are on the y axis, and that each matrix entry is actually a compatiblity score. Then from there, we are actually trying to **maximize the final value** which is **maximizing total student and tutor compatibility**.
 
-
-
-## Installation
-
-What to install
-
-```
-pip install numpy
-pip install script 
-pip install pandas 
-```
 
 ## Members
 [Nathan Embaye](https://nathanembaye.me)
