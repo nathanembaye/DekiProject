@@ -4,12 +4,11 @@
 
 1. [What does this solve?](#deki-project)
 2. [How does this work?](#how-does-this-work)
-3. [Members](#members)
 
 
 ## What does this solve?
 
-During COVID myself and a good friend, Nathanael, were concerned about students in the community falling behind academically due to lockdown restrictions. We decided to start an initiative ([The Deki Ottawa Project](https://www.instagram.com/thedekiottawaproject/?hl=en)) where undergrads and young professionals would be paired with students in grade 7-12 to tutor them. As the number of tutors and students signees grew, to approximately 30+ and 45+ respectively, optimally matching everyone became difficult. For every individual we had to consider: subjects, days of availability, suitable times, etc. This python program solves that issue using combinatorial optimization. 
+During COVID myself and a good friend, Nathanael, were concerned about students in the community falling behind academically due to lockdown restrictions. After discussion we came to start an initiative ([The Deki Ottawa Project](https://www.instagram.com/thedekiottawaproject/?hl=en)) where undergrads and young professionals would be paired with students in grade 7-12 to tutor them. As the number of tutors and students signees grew, to approximately 30+ and 45+ respectively, optimally matching everyone became difficult. For every individual we had to consider: subjects, days of availability, suitable times, etc. This python program solves that issue using combinatorial optimization. 
 
 
 
@@ -31,7 +30,4 @@ The minimum cost is $6, achieved by having Paul cleaning the bathroom, Dave swee
 
 My program is the same idea. The difference is that tutors are on the x axis and students are on the y axis, and that each matrix entry is actually a compatiblity score. Then from there, we are actually trying to **maximize the final value** which is **maximizing total student and tutor compatibility**.
 
-
-## Members
-[Nathan Embaye](https://nathanembaye.me)
 
