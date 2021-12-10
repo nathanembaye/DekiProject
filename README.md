@@ -8,7 +8,7 @@
 
 ## What does this solve?
 
-During COVID myself and a good friend, Nathanael, were concerned about students in the Eritrean community falling behind academically due to lockdown restrictions. After discussion we came to start an initiative ([The Deki Ottawa Project](https://www.instagram.com/thedekiottawaproject/?hl=en)) where undergrads and young professionals would be paired with students in grades 7-12 to tutor them. As the project's tutor and student signees grew, approximating 35+ and 40+ respectively, optimally matching everyone became difficult. For every pair made we had to strenuously consider: subjects, days of availability, suitable times and more. This python program automates that labour using combinatorial optimization. 
+During COVID myself and a good friend, Nathanael, were concerned about students in the Eritrean community academically falling behind due to lockdown restrictions. After discussion we came to start an initiative ([The Deki Ottawa Project](https://www.instagram.com/thedekiottawaproject/?hl=en)) where undergrads and young professionals would be paired with students in grades 7-12 for tutoring. As the project's tutor and student signees grew, approximating 35+ and 40+ respectively, optimally matching everyone became difficult. For every pair made we had to strenuously consider: subjects, days of availability, suitable times and more. This python program automates that labour using combinatorial optimization. 
 
 
 
