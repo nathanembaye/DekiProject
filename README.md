@@ -14,9 +14,9 @@ During COVID myself and a good friend, Nathanael, were concerned about students 
 
 ## How Does This Work?
 
-The solution is simple yet effective. Give each student a weighted compatibility score with each tutor. Then, try to find the combination of pairs that results in the greatest total score possible. This means that compability among tutors and students has been maximized. 
+The solution is simple yet effective. Give each student a weighted compatibility score with each tutor. Then, try to find the combination of pairs that results in the greatest total score possible. This means that compatibility among tutors and students has been maximized. 
 
-The graph from [Wikipedia](https://en.wikipedia.org/wiki/Hungarian_algorithm) below communicates the idea. Say a business wants to hire workers for cleaning and it lists the different workers prices for cleaning various objects. 
+The graph from [Wikipedia](https://en.wikipedia.org/wiki/Hungarian_algorithm) below communicates the idea. Say a business wants to hire workers for various cleaning tasks and it lists the different workers prices. 
 
 
 |       | Bathroom | Floors | Windows |
@@ -26,7 +26,7 @@ The graph from [Wikipedia](https://en.wikipedia.org/wiki/Hungarian_algorithm) be
 | Chris | $3       | $3     | $2      |
 
 
-Seeing their prices, there is a set of (x, y) combinations that results in the smallest total cost possible. The minimum cost here is $6, achieved by Paul cleaning the bathroom, Dave sweeping the floors and Chris washing the windows.
+Seeing the prices, there is a set of (x, y) combinations that results in the smallest total cost possible. The minimum cost here is $6, achieved by Paul cleaning the bathroom, Dave sweeping the floors and Chris washing the windows.
 
 My solution is the same idea. The difference is that tutors are on the x-axis and students are on the y-axis and that each matrix entry is actually a compatiblity score. Then from there, we're actually trying to **maximize** the final value which is **optimizing total student and tutor compatibility**.
 
